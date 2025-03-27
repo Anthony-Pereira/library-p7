@@ -1,2 +1,2 @@
-# library-java-21
+# library
 new library project with Java 21
